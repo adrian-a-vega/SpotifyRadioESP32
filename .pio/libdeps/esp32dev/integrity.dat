@@ -1,0 +1,5 @@
+bodmer/TJpg_Decoder@^1.1.0
+bblanchon/ArduinoJson@^7.3.0
+bodmer/TFT_eSPI@^2.5.43
+https://github.com/witnessmenow/spotify-api-arduino.git
+https://github.com/PaulStoffregen/XPT2046_Touchscreen.git
